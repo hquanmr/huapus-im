@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "leo108/php_sdk_skeleton": "dev-master",
+        "leo108/php_sdk_skeleton": "0.0.1",
         "monolog/monolog": "1.x-dev"
     },
     "autoload": {
