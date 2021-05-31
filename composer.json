@@ -1,0 +1,22 @@
+{
+    "name": "lhq/huapus-im",
+    "description": "im",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lhq",
+            "email": "2976930785@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "leo108/php_sdk_skeleton": "dev-master",
+        "monolog/monolog": "1.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "hquanmr\\HuapusIm\\": "src/"
+        }
+    }
+}
