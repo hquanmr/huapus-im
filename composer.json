@@ -1,6 +1,6 @@
 {
     "name": "hquanmr/huapus-im",
-    "description": "im",
+    "description": "腾讯云 im",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -10,8 +10,7 @@
         }
     ],
     "require": {
-        "leo108/php_sdk_skeleton": "0.0.1",
-        "monolog/monolog": "1.x-dev"
+        "leo108/php_sdk_skeleton": "0.0.1"
     },
     "autoload": {
         "psr-4": {
